@@ -1,4 +1,4 @@
-Desarrollo de Aplicaciones Web Laboratorio 01:
+<h1>Desarrollo de Aplicaciones Web Laboratorio 01: </h1>
 
 “Elementos Básicos de HTML5”
 
