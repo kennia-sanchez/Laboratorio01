@@ -1,18 +1,19 @@
-<h1>Desarrollo de Aplicaciones Web Laboratorio 01: </h1>
+<h1>Web Application Development Lab 01:</h1>
 
-“Elementos Básicos de HTML5”
+<i>"Basic Elements of HTML5" </i>
 
-Kennia Jackeline Sánchez Castillo A00517129 ISDR - Ingeniería en Sistemas Digitales y Robótica
+Kennia Jackeline Sánchez Castillo A00517129 ISDR - Digital Systems and Robotics Engineering <br>
+Prof. Jesús Carlos Morón García Monterrey, Nuevo León March 17, 2024
 
-Profe. Jesús Carlos Morón García Monterrey, Nuevo León 17 de marzo, 2024
+<ol>
+  <li> Using an HTML editor like Visual Studio Code, create a website according to the following:
+It should include two pages, the first one named index.html. The pages must consider the semantic structure recommended in HTML5 (header, main section, nav, footer) and contain at least the following HTML elements: title, UTF-8 encoding, headers at different levels, navigation bar allowing navigation between the two pages, paragraphs, images, ordered and unordered lists, tables, videos, and links to another section within the same page. </li>
+</ol>
 
-1.- Utilizando un editor HTML como Visual Studio Code  realiza un sitio web de acuerdo a lo siguiente:
-
-Se deben incluir dos páginas, la primera llamada index.html. Las páginas debe considerar la estructura semántica que se recomienda en HTML5  (header, main section, nav, footer) y contener mínimo los siguientes elementos HTML: título, codificación UTF-8, encabezados en diferentes niveles, barra de navegación que permita navegar entre las dos páginas, párrafos, imágenes, listas ordenadas y no ordenadas, tablas, videos y ligas a otra sección dentro de la misma página.
-
-
-a) En la página inicial (index.html) incluye tu nombre, fotografía, lugar de nacimiento/procedencia, carrera que estudias,  lenguajes de programación que conoces, editores de texto y/o ambientes de desarrollo que conoces, bases de datos que has utilizado e información adicional que consideres relevante.  
-
-b) En la segunda página comparte información de lugares favoritos que conozcas (descripción, fotos).
-
-c) Revisa que las páginas html que realizaste como parte del laboratorio no tengan errores, utilizando para ello el servicio de validación de w3: https://validator.w3.org/
+<ul>
+  <li> a) On the homepage (index.html), include your name, photograph, place of birth/origin, major you are studying, programming languages you know, text editors and/or development environments you are familiar with, databases you have used, and any additional information you consider relevant. </li>
+  
+  <li> b) On the second page, share information about favorite places you know (description, photos). </li>
+  
+  <li> c) Check that the HTML pages you created as part of the lab have no errors, using the w3 validation service: https://validator.w3.org/ </li>
+</ul>
