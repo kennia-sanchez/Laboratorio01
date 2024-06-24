@@ -4,7 +4,7 @@
 
 Kennia Jackeline Sánchez Castillo A00517129 ISDR - Digital Systems and Robotics Engineering <br>
 Prof. Jesús Carlos Morón García Monterrey, Nuevo León March 17, 2024
-
+<hr>
 <ol>
   <li> Using an HTML editor like Visual Studio Code, create a website according to the following:
 It should include two pages, the first one named index.html. The pages must consider the semantic structure recommended in HTML5 (header, main section, nav, footer) and contain at least the following HTML elements: title, UTF-8 encoding, headers at different levels, navigation bar allowing navigation between the two pages, paragraphs, images, ordered and unordered lists, tables, videos, and links to another section within the same page. </li>
